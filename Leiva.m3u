@@ -9,3 +9,9 @@ http://53097e9a7752738a702ff24bc5718a4a.dramostimes.ablatv.me/live/c6.php?z=997&
 http://53097e9a7752738a702ff24bc5718a4a.dramostimes.ablatv.me/live/c6.php?z=997&ui=53499&s=CT43RDNPU8&id=26271&h=227dcb93fc4f582ca7959b9abf4798920560b44a&n=1663094494&i=89.7.168.62
 #EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 1080P" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES 1080P
 http://53097e9a7752738a702ff24bc5718a4a.dramostimes.ablatv.me/live/c6.php?z=997&ui=53499&s=CT43RDNPU8&id=26316&h=227dcb93fc4f582ca7959b9abf4798920560b44a&n=1663094494&i=89.7.168.62
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/picon/dobleM/1_0_1_76C9_40E_1_C00000_0_0_0.png" tvg-id="a6c31ccae63a0b7dac82a0de58f4fa77" tvg-chno="43",DAZN LaLigaHD
+http://Leiva:Ed14031970@192.168.0.170:9981/stream/channelid/1243399078?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/picon/dobleM/1_0_1_7691_41E_1_C00000_0_0_0.png" tvg-id="4f8e6456d2f8d78747234c6723aa3be3" tvg-chno="44",DAZN LaLiga2 HD
+http://Leiva:Ed14031970@192.168.0.170:9981/stream/channelid/1449430607?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/picon/dobleM/1_0_19_7531_426_1_C00000_0_0_0.png" tvg-id="0926cbe8e1e83225d0a6376a7778be62" tvg-chno="58",DAZN F1 HD
+http://Leiva:Ed14031970@192.168.0.170:9981/stream/channelid/1758144009?profile=pass
